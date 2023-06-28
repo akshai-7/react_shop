@@ -8,6 +8,7 @@
         height: 100%;
         display: flex;
         transition: all 1s ease;
+     
 
         img{
             width: 100vw;
@@ -17,7 +18,7 @@
     }
 
     .icons{
-        width: fit-content;
+        width:fit-content;
         display: flex;
         position: absolute;
         left: 0;
