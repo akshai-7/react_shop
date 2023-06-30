@@ -36,7 +36,7 @@ const FeaturedProducts = ({type}) => {
       oldPrice: 19,
       newPrice: 12,
     },
-  ]
+  ];
   return (
     <div className="featuredProducts">
       <div className="top">

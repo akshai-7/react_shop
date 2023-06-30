@@ -11,7 +11,7 @@ const Home = () => {
       <FeaturedProducts type="featured" />
       <Categories />
       <FeaturedProducts type="trending" />
-       <Contact/>
+      <Contact/>
     </div>
   )
 }
